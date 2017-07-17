@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="css/cloud3.css">
 
-<title>GREEN Oracle Public Cloud Demo</title>
+<title>GREEN Oracle Public Cloud Demo with Wercker</title>
 
 </head>
 <body>
