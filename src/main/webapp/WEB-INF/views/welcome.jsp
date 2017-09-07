@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="css/cloud3.css">
 
-<title>RED - YELLO2 Oracle Public Cloud Demo with Wercker</title>
+<title>RED - Hello World Oracle Public Cloud Demo with Wercker</title>
 
 </head>
 <body>
